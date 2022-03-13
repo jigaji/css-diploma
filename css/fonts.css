@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'OpenSans-Bold';
+    src: url('../sources/fonts/OpenSans-Bold.ttf'),
+         url('../sources/fonts/OpenSans-Bold.woff'),
+         url('../sources/fonts/OpenSans-Bold.woff2');
+}
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url('../sources/fonts/OpenSans-Regular.ttf'),
+         url('../sources/fonts/OpenSans-Regular.woff'),
+         url('../sources/fonts/OpenSans-Regular.woff2');
+}
